@@ -1,0 +1,5 @@
+C:\Users\arun.a.subramani\Desktop\PractiseLibrary\CodeChefPractiseEasy\Holes in the text\bin\Debug\Holes in the text.exe.config
+C:\Users\arun.a.subramani\Desktop\PractiseLibrary\CodeChefPractiseEasy\Holes in the text\bin\Debug\Holes in the text.exe
+C:\Users\arun.a.subramani\Desktop\PractiseLibrary\CodeChefPractiseEasy\Holes in the text\bin\Debug\Holes in the text.pdb
+C:\Users\arun.a.subramani\Desktop\PractiseLibrary\CodeChefPractiseEasy\Holes in the text\obj\Debug\Holes in the text.exe
+C:\Users\arun.a.subramani\Desktop\PractiseLibrary\CodeChefPractiseEasy\Holes in the text\obj\Debug\Holes in the text.pdb

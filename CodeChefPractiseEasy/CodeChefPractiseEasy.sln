@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Life, the Universe, and Everything", "Life, the Universe, and Everything\Life, the Universe, and Everything.csproj", "{AF502C9D-49C4-4072-984B-BEF0BA5FBED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{C2AEBA38-A0BF-4F2B-8177-A3D86B6D61CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enormous Input Test", "Enormous Input Test\Enormous Input Test.csproj", "{A49C4D63-1CC7-4169-9BA1-D761A4F32DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Holes in the text", "Holes in the text\Holes in the text.csproj", "{17CFFC56-101F-4A69-9CA6-7164F70334A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF502C9D-49C4-4072-984B-BEF0BA5FBED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF502C9D-49C4-4072-984B-BEF0BA5FBED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF502C9D-49C4-4072-984B-BEF0BA5FBED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF502C9D-49C4-4072-984B-BEF0BA5FBED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2AEBA38-A0BF-4F2B-8177-A3D86B6D61CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AEBA38-A0BF-4F2B-8177-A3D86B6D61CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AEBA38-A0BF-4F2B-8177-A3D86B6D61CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AEBA38-A0BF-4F2B-8177-A3D86B6D61CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49C4D63-1CC7-4169-9BA1-D761A4F32DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49C4D63-1CC7-4169-9BA1-D761A4F32DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49C4D63-1CC7-4169-9BA1-D761A4F32DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49C4D63-1CC7-4169-9BA1-D761A4F32DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CFFC56-101F-4A69-9CA6-7164F70334A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CFFC56-101F-4A69-9CA6-7164F70334A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CFFC56-101F-4A69-9CA6-7164F70334A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CFFC56-101F-4A69-9CA6-7164F70334A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
